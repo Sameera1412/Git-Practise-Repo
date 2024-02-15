@@ -1,0 +1,5 @@
+This file has git commands to practise:
+git pull -> to first pull the files from repo inorder to keep the directory in sync.
+git add "filename" -> to add a new file to staging
+git commit -m "message of what are you comming" -> this is to commit the changes from staging
+git push origin branchname(main) -> This is to push the commited files/code to main branch.
